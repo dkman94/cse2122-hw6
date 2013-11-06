@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1189864956 source:c:\users\kumar.331\cse 2122\hw6\main.cpp
+	<iostream>
+
+1383718435 source:c:\users\kumar.331\cse 2122\hw6\rational.cpp
+	"rational.h"
+	<iostream>
+	<cassert>
+
+1383718546 c:\users\kumar.331\cse 2122\hw6\rational.h
+	<iostream>
+
